@@ -1,0 +1,288 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xml:lang="en" lang="en" dir="ltr"
+>
+  <title>01494 - Ross-Tech Wiki</title>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="generator" content="MediaWiki 1.20.2" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="Ross-Tech Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://wiki.ross-tech.com/wiki/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="Ross-Tech Wiki Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom" />  
+    <style type="text/css" media="screen,projection">/*<![CDATA[*/
+		@import "/wiki/skins/common/shared.css?303";
+		@import "/wiki/skins/rosstech/rosstech_main.css?303";
+	/*]]>*/</style>
+
+    <link rel="stylesheet" type="text/css" media="print" href="/wiki/skins/common/commonPrint.css?303" />
+	<link rel="stylesheet" type="text/css" media="print" href="/wiki/skins/rosstech/rosstech_print.css?303" />
+    <!--[if lt IE 5.5000]><style type="text/css">@import "/wiki/skins/rosstech/IE50Fixes.css?303";</style><![endif]-->
+    <!--[if IE 5.5000]><style type="text/css">@import "/wiki/skins/rosstech/IE55Fixes.css?303";</style><![endif]-->
+    <!--[if IE 6]><style type="text/css">@import "/wiki/skins/rosstech/IE60Fixes.css?303";</style><![endif]-->
+    <!--[if IE 7]><style type="text/css">@import "/wiki/skins/rosstech/IE70Fixes.css?303";</style><![endif]-->
+    <!--[if lt IE 7]><script type="text/javascript" src="/wiki/skins/common/IEFixes.js?303"></script>
+    <meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+    <script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"01494","wgTitle":"01494","wgCurRevisionId":6706,"wgArticleId":2978,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Fault Codes"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"01494","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRestrictionRead":[]});
+}</script>
+    <script type="text/javascript" src="/wiki/skins/common/wikibits.js?303"><!-- wikibits js --></script>
+            <!-- Head Scripts -->
+    <script src="http://wiki.ross-tech.com/wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=rosstech&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"01494","wgTitle":"01494","wgCurRevisionId":6706,"wgArticleId":2978,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Fault Codes"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"01494","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRestrictionRead":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"rosstech","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,
+"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: rosswikidb:resourceloader:filter:minify-js:7:252534b999919ec1199d9a25acc8e57d */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script></head>
+
+<body  class="mediawiki  ltr ns-0 ns-subject page-01494">
+
+<!-- ##### wrapper ##### -->
+<div id="gumax-wrapper">
+
+             
+          
+<!-- ===== page ===== -->
+<div class="gumax-page"><a name="gumax-top"><!-- --></a>
+
+	<!-- ///// header ///// -->
+    <div id="gumax-header">
+        <a name="top" id="contentTop"></a>
+        <!-- p-logo -->
+        <div id="gumax-p-logo" >
+            <div id="p-logo">
+            <a style="background-image: url(images/logo.png);" href="/wiki/index.php/Main_Page" title="Main Page"></a>
+            </div>
+  <div style="padding-bottom: 20px; padding-right: 10px; padding-top: 2px; font-size: 1.12em; face: Arial;">
+<table class=NOBORDER borderColor=transparent cellSpacing=0 cellPadding=0 background=transparent border=0 align=right>
+<tr>
+<td align="right"><br>Ross-Tech, LLC<br />881 Sumneytown Pike<br />Lansdale PA 19446, USA<br />Tel: +1 267 638 2300<br />Fax: +1 215 893 3816</td></font>
+
+</tr>
+
+</table> 
+</div>
+        </div>
+		<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+        <!-- end of p-logo -->
+    </div>
+	<!-- ///// end of header ///// -->
+	<!-- HARDCODED MAIN MENU + SEARCH -->
+	<div id="access" >
+    	<div class="skip-link"><a href="#content" title="Skip navigation to the content">Skip to content</a></div>
+
+  
+<div class="menu"   style="margin-left: -6px; padding-bottom: 2px; ">
+<ul id="nav" class="sf-menu" style="margin-top: -1px;">
+   
+	    
+	   <a href="http://store.ross-tech.com/shop" title="Shop">Shop</a>
+	    <a href="http://www.ross-tech.com/vag-com/cars/index.html" title="Info">Info</a>
+	   <a href="http://www.ross-tech.com/vag-com/vag-com-faq.html" title="F.A.Q.">F.A.Q.</a>
+	    <a href="http://www.ross-tech.com/vcds/download" title="Download/Update">Download/Update</a>
+	    <a href="http://www.ross-tech.com/vcds/tour/main_screen.html" title="Manual">Manual</a>
+	    <a href="http://store.ross-tech.com/shop/cat/IntUp.html" title="Upgrades">Upgrades</a>
+	    <a href="http://www.ross-tech.com/vag-com/literature.html" title="Literature">Literature</a>
+	</ul>
+
+   <!-- BEGIN SEARCH FORM HACK -->
+
+<table  class=NOBORDER borderColor=transparent cellSpacing=0 cellPadding=2 background=transparent border=0 align=right>
+    <tr >
+
+<td bgcolor=#b0c4de border="0"><form name="searchform" action="/wiki/index.php/Special:Search" id="searchform">
+           <b>Search:</b> <input id="searchInput" name="search" type="text"
+                accesskey="f" value="" />
+              <input type='submit' name="fulltext"
+                class="searchButton"
+                value="Go" />
+            </form>
+
+</td>
+</tr>
+
+</table>
+
+	   <!-- END SEARCH FORM HACK -->
+
+	    </ul>
+</div>
+        </div><!-- access -->
+
+<div id="contentHeadLeft"><div id="contentHeadRight"><div id="contentHeadCenter"></div></div></div>
+	<div id="contentBodyLeft"><div id="contentBodyRight"><div id="contentBodyCenter">
+		<div id="contentMain">
+<!-- content -->
+<div id="gumax-content">
+
+	<table class="gumax-caption" width="100%"><tr>
+
+	</tr></table>
+
+	<div id="gumax-spacer"><!-- --></div>
+
+	<table class="gumax-row" width="100%"><tr>
+	
+	<td class="gumax-row-right" valign="top">
+	<!-- article-picture -->
+	 <!-- Get page name -->
+	    <!-- end of article-picture -->
+
+	<!-- content-body -->
+	<div id="gumax-content-body">
+	<!-- content -->
+	<div id="content">
+		<a name="top" id="top"></a>
+				<!--- Removed to fix ampersign<h1 class="firstHeading">01494</h1> -->
+                <h1 id="firstHeading" class="firstHeading">01494</h1>
+		<div id= "bodyContent" class="gumax-bodyContent">
+			<h3 id="siteSub">From Ross-Tech Wiki</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><br />
+</p>
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#01494_-_Bulb_for_Parking_Lamps.3B_Left_.28M1.29"><span class="tocnumber">1</span> <span class="toctext">01494 - Bulb for Parking Lamps; Left (M1)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#01494_-_Bulb_for_Parking_Lamps.3B_Left_.28M1.29:_Short_to_Ground"><span class="tocnumber">1.1</span> <span class="toctext">01494 - Bulb for Parking Lamps; Left (M1): Short to Ground</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#01494_-_Bulb_for_Parking_Lamps.3B_Left_.28M1.29:_Open_or_Short_to_Plus"><span class="tocnumber">1.2</span> <span class="toctext">01494 - Bulb for Parking Lamps; Left (M1): Open or Short to Plus</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#01494_-_Bulb_for_Parking_Lamps.3B_Left_.28M1.29:_Open_Circuit"><span class="tocnumber">1.3</span> <span class="toctext">01494 - Bulb for Parking Lamps; Left (M1): Open Circuit</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Possible_Symptoms"><span class="tocnumber">1.3.1</span> <span class="toctext">Possible Symptoms</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Possible_Causes"><span class="tocnumber">1.3.2</span> <span class="toctext">Possible Causes</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Possible_Solutions"><span class="tocnumber">1.3.3</span> <span class="toctext">Possible Solutions</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Special_Notes"><span class="tocnumber">1.3.4</span> <span class="toctext">Special Notes</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="01494_-_Bulb_for_Parking_Lamps.3B_Left_.28M1.29"> 01494 - Bulb for Parking Lamps; Left (M1) </span></h2>
+<h3> <span class="mw-headline" id="01494_-_Bulb_for_Parking_Lamps.3B_Left_.28M1.29:_Short_to_Ground"> 01494 - Bulb for Parking Lamps; Left (M1): Short to Ground </span></h3>
+<h3> <span class="mw-headline" id="01494_-_Bulb_for_Parking_Lamps.3B_Left_.28M1.29:_Open_or_Short_to_Plus"> 01494 - Bulb for Parking Lamps; Left (M1): Open or Short to Plus </span></h3>
+<h3> <span class="mw-headline" id="01494_-_Bulb_for_Parking_Lamps.3B_Left_.28M1.29:_Open_Circuit"> 01494 - Bulb for Parking Lamps; Left (M1): Open Circuit </span></h3>
+<h4> <span class="mw-headline" id="Possible_Symptoms"> Possible Symptoms </span></h4>
+<ul><li> M1 light does not illuminate 
+</li></ul>
+<h4> <span class="mw-headline" id="Possible_Causes"> Possible Causes </span></h4>
+<ul><li> Blown fuse
+</li><li> Failed or incorrect turn signal bulb installed
+</li><li> Wiring harness issue
+</li></ul>
+<h4> <span class="mw-headline" id="Possible_Solutions"> Possible Solutions </span></h4>
+<ul><li> Verify fuses are good
+</li><li> Verify correct light bulbs are installed
+</li><li> Test wiring harness, see factory repair manual
+</li></ul>
+<h4> <span class="mw-headline" id="Special_Notes"> Special Notes </span></h4>
+<ul><li> When found on Touareg (7L):
+<ul><li> If DTC <a href="/wiki/index.php/00967" title="00967">00967</a> is also stored, check fuses and wiring to J519 first.
+</li></ul>
+</li></ul>
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 31/1000000
+Preprocessor generated node count: 36/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+</div><div class="printfooter">
+Retrieved from "<a href="http://wiki.ross-tech.com/wiki/index.php?title=01494&amp;oldid=6706">http://wiki.ross-tech.com/wiki/index.php?title=01494&amp;oldid=6706</a>"</div>
+			<div id="catlinks"><div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/index.php/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/wiki/index.php/Category:Fault_Codes" title="Category:Fault Codes">Fault Codes</a></li></ul></div></div></div>			<!-- end content -->
+			<div class="visualClear"></div>
+		</div>
+
+		<!-- content-actions -->
+				<!-- end of content-actions -->
+
+	</div>
+	<!-- end of content -->
+	</div>
+	<!-- end of content-body -->
+	</td>
+	
+		<td class="gumax-row-left" valign="top">
+
+    <!-- Navigation Menu -->
+    <div id="gumax-p-navigation-wrapper">
+                    <div class='gumax-portlet' id='gumax-p-navigation'>
+                <h5>Categories</h5>
+                    <ul>
+                                                    <li id="n-mainpage"><a href="/wiki/index.php/Main_Page">Main Page</a></li>
+                                                    <li id="n-Diagnostic-Procedures"><a href="/wiki/index.php/Diagnostic_Procedures">Diagnostic Procedures</a></li>
+                                                    <li id="n-Common-Procedures"><a href="/wiki/index.php/Common_Procedures">Common Procedures</a></li>
+                                                    <li id="n-Fault-Codes"><a href="/wiki/index.php/Category:Fault_Codes">Fault Codes</a></li>
+                                                    <li id="n-Retrofitting"><a href="/wiki/index.php/Retrofitting">Retrofitting</a></li>
+                                                    <li id="n-Immobilizer"><a href="/wiki/index.php/Immobilizer">Immobilizer</a></li>
+                                            </ul>
+            </div>
+        	
+	<div class='gumax-portlet' id='gumax-p-navigation'>
+	<h5>Meta</h5>
+	
+	<ul>
+								<li id="gumax-pt-login">
+			<a href="/wiki/index.php?title=Special:UserLogin&amp;returnto=01494">Log in</a>
+		</li>
+			</ul>
+	 </div>
+	  <a href="http://www.ross-tech.com/vcds/download/current.html"><img src="/wiki/images/update.gif" alt="Update VCDS Today" </a>
+    </div>
+    <!-- end of Navigation Menu -->
+	</td>
+
+	</tr></table>
+
+	<div id="gumax-spacer"><!-- --></div>
+
+	<!-- ///// footer ///// -->
+	<div id="gumax-footer">
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"missing","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest"], null, true);
+}</script>
+<script>if(window.mw){
+mw.loader.state({"site":"ready"});
+}</script>
+	</div>
+	<!-- ///// end of footer ///// -->
+
+	</div>
+	<!-- end of content -->
+		</div>
+	</div></div></div>
+<div id="contentFootLeft"><div id="contentFootRight"><div id="contentFootCenter"></div></div></div>
+
+	<div id="gumax-spacer"><!-- --></div><a name="gumax-bottom"><!-- --></a>
+
+	<!-- f-list -->
+	<div id="gumax-f-list">
+	
+	<!-- Footer Contents -->
+	<br /><br /><br />
+	Unless otherwise noted, all content on this site is Copyright © 2000-2010 by Ross-Tech LLC.  All rights reserved.<br />
+	"VCDS" is a Registered Trademark of Ross-Tech, LLC.<br />
+	Ross-Tech is not affiliated with the Volkswagen Group in any way.
+	</div>
+	<!-- end of f-list -->
+</div>
+<!-- ===== end of page ===== -->
+
+</div> <!-- ##### end of wrapper ##### -->
+
+<!-- Served in 0.189 secs. --></body></html>
+
